@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\EnemyHealth.js">
+    <Files>
+      <File FileName="Assets\Scenes\Scripts4MenuChanges\Ins3\Ins3_Back.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Restart.js" Line="1" Column="1" />
+      <File FileName="Assets\Scenes\Scripts4MenuChanges\Ins1\Ins1_next.js" Line="1" Column="1" />
+      <File FileName="Assets\Scenes\Scripts4MenuChanges\Ins3\Ins3_Next.js" Line="1" Column="1" />
+      <File FileName="Assets\Scenes\Scripts4MenuChanges\Ins4\Ins4_Back.js" Line="1" Column="1" />
+      <File FileName="Assets\Scenes\Scripts4MenuChanges\Ins4\Ins4_Play.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\MoveTargets.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\GameTimer.js" Line="1" Column="1" />
+      <File FileName="Assets\scripts\EnemyHealth.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
